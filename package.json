@@ -86,5 +86,8 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "lerna": "^2.4.0"
   }
 }
